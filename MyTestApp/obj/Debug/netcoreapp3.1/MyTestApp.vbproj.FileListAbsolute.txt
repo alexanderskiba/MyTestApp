@@ -1,0 +1,13 @@
+C:\Users\ar.skiba\source\repos\MyTestApp\MyTestApp\bin\Debug\netcoreapp3.1\MyTestApp.exe
+C:\Users\ar.skiba\source\repos\MyTestApp\MyTestApp\bin\Debug\netcoreapp3.1\MyTestApp.deps.json
+C:\Users\ar.skiba\source\repos\MyTestApp\MyTestApp\bin\Debug\netcoreapp3.1\MyTestApp.runtimeconfig.json
+C:\Users\ar.skiba\source\repos\MyTestApp\MyTestApp\bin\Debug\netcoreapp3.1\MyTestApp.runtimeconfig.dev.json
+C:\Users\ar.skiba\source\repos\MyTestApp\MyTestApp\bin\Debug\netcoreapp3.1\MyTestApp.dll
+C:\Users\ar.skiba\source\repos\MyTestApp\MyTestApp\bin\Debug\netcoreapp3.1\MyTestApp.pdb
+C:\Users\ar.skiba\source\repos\MyTestApp\MyTestApp\obj\Debug\netcoreapp3.1\MyTestApp.vbprojAssemblyReference.cache
+C:\Users\ar.skiba\source\repos\MyTestApp\MyTestApp\obj\Debug\netcoreapp3.1\MyTestApp.AssemblyInfoInputs.cache
+C:\Users\ar.skiba\source\repos\MyTestApp\MyTestApp\obj\Debug\netcoreapp3.1\MyTestApp.AssemblyInfo.vb
+C:\Users\ar.skiba\source\repos\MyTestApp\MyTestApp\obj\Debug\netcoreapp3.1\MyTestApp.vbproj.CoreCompileInputs.cache
+C:\Users\ar.skiba\source\repos\MyTestApp\MyTestApp\obj\Debug\netcoreapp3.1\MyTestApp.dll
+C:\Users\ar.skiba\source\repos\MyTestApp\MyTestApp\obj\Debug\netcoreapp3.1\MyTestApp.pdb
+C:\Users\ar.skiba\source\repos\MyTestApp\MyTestApp\obj\Debug\netcoreapp3.1\MyTestApp.genruntimeconfig.cache
